@@ -9,7 +9,7 @@ and Jannek Squar.
 
 https://lists.mpi-forum.org/mailman/listinfo/mpiwg-io is our public email list.  Meeting topics
 and other updates will be sent to the mailing list, but most discussions occur on the MPI Forum's
-Slack workspace (https://mpi-forum.slack.com/) in the #wg-file channel.
+Slack workspace (https://mpi-forum.slack.com/) in the #wg-io channel.
 
 The primary location for topics under consideration is the io-issues repository
 (https://github.com/mpiwg-io/io-issues) and meeting info and notes are stored in the wiki
